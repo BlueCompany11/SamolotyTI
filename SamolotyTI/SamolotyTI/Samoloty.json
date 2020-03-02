@@ -1,0 +1,19 @@
+{
+  "SamolotyPasazerskie": [
+    {
+      "Id": 0,
+      "Nazwa": "Nazwa",
+      "Model": "Model",
+      "PredkoscPrzelotowa": "PredkoscPrzelotowa",
+      "IloscMiejsc": "IloscMiejsc"
+    }
+  ],
+  "SamolotyWojskowe": [
+    {
+      "Id": 0,
+      "Nazwa": "Nazwa",
+      "Model": "Model",
+      "PredkoscPrzelotowa": "PredkoscPrzelotowa"
+    }
+  ]
+}
